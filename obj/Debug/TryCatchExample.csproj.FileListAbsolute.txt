@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\MyLessons\TryCatchExample\bin\Debug\TryCatchExample.exe.config
+C:\Users\User1\Desktop\MyLessons\TryCatchExample\bin\Debug\TryCatchExample.exe
+C:\Users\User1\Desktop\MyLessons\TryCatchExample\bin\Debug\TryCatchExample.pdb
+C:\Users\User1\Desktop\MyLessons\TryCatchExample\obj\Debug\TryCatchExample.csprojAssemblyReference.cache
+C:\Users\User1\Desktop\MyLessons\TryCatchExample\obj\Debug\TryCatchExample.exe
+C:\Users\User1\Desktop\MyLessons\TryCatchExample\obj\Debug\TryCatchExample.pdb
